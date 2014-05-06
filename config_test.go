@@ -1,4 +1,4 @@
-package peony
+package goconf
 
 import (
 	"strings"
